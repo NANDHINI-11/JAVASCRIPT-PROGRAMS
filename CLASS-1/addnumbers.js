@@ -18,6 +18,20 @@ console.log(sub);
 const x = parseInt(prompt('Enter the value of x :'));
 const y = parseInt(prompt('Enter the value of y :'));
 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
 const sum = x + y
 
 console.log( sum );
